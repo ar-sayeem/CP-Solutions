@@ -1,3 +1,3 @@
-# CP Solutions
+# CP Code Solutions
 
-A repository for my Competitive Programming solutions, including problems from AtCoder and other platforms. Organized for easy access and reference.
+A repository for my Competitive Programming solutions in multiple languages, including C, C++, and Python. Features problems from AtCoder and other platforms, organized for easy access and reference.
